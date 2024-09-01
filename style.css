@@ -1,0 +1,22 @@
+#name {
+    color: brown;
+    width: 400px;
+    font-size: 45px;
+    right: 5px;
+ }
+
+ .nameclass {
+    color: blueviolet;
+    width: 150px;
+ }
+
+ h1 {
+    color: aqua;
+    font-size: 100px;
+ }
+
+ h2 {
+    color: brown;
+    font-size: 75px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
